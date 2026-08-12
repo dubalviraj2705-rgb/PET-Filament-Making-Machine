@@ -253,7 +253,7 @@ PET Processing Temperature
 |      13 | Wiring                 | 14–18 AWG power / 22–24 AWG signal |
 |      14 | Filament Nozzle        | 1.75 mm / 3 mm                     |
 
-The component specifications above are based on the project presentation.
+
 
 ---
 
@@ -549,7 +549,7 @@ PET-Filament-Making-Machine/
 
 ## 🔬 Testing
 
-The machine should be tested by varying:
+The machine tested by varying:
 
 1. Heating temperature
 2. PET strip width
@@ -566,7 +566,7 @@ The machine should be tested by varying:
 | 2    |       255°C |  0.5 m/min | 1.75 mm |            1.80mm | ok          |
 | 3    |       260°C |  0.7 m/min | 1.75 mm |            1.76mm | excellent   |
 | 4    |       265°C |  0.8 m/min | 1.75 mm |            1.74mm | good        |
-| 5    |       270°C |  1.0 m/min | 1.75 mm |            1.68mm | good          |
+| 5    |       270°C |  1.0 m/min | 1.75 mm |            1.68mm | good        |
 
 
 
